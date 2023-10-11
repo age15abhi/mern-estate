@@ -32,7 +32,7 @@ function Profile() {
   const [formData, setFormData] = useState({});
   const [updateSuccess, setUpdateSuccess] = useState(false);
 
-  //all consoles
+  //   all consoles
   //   console.log(filePercentage);
   //   console.log(fileUploadError);
   //   console.log(formData);
